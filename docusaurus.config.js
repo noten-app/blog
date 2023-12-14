@@ -42,8 +42,10 @@ const config = {
         blog: {
           showReadingTime: true,
           routeBasePath: '/',
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Noten-App.`,
+          },
         },
         theme: {
           customCss: './src/css/custom.css',
