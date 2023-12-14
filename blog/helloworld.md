@@ -61,9 +61,9 @@ If you want to get notified when a new blog post is released you can subscribe t
 The following feeds are available:
 Feed | URL
 --- | ---
-RSS | [https://noten-app.de/blog/rss.xml](https://noten-app.de/blog/rss.xml)
-Atom | [https://noten-app.de/blog/atom.xml](https://noten-app.de/blog/atom.xml)
-JSON | [https://noten-app.de/blog/feed.json](https://noten-app.de/blog/feed.json)
+RSS | [https://blog.noten-app.de/rss.xml](https://blog.noten-app.de/rss.xml)
+Atom | [https://blog.noten-app.de/atom.xml](https://blog.noten-app.de/atom.xml)
+JSON | [https://blog.noten-app.de/feed.json](https://blog.noten-app.de/feed.json)
 
 ### Newsletters
 
