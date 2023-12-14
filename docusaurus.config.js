@@ -12,7 +12,7 @@ const config = {
   tagline: 'Academic Data Management made easy',
   favicon: 'https://noten-app.de/favicon.ico',
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://blog.noten-app.de',
   baseUrl: '/',
 
   organizationName: 'noten-app',
