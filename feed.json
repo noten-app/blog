@@ -10,7 +10,7 @@
             "url": "https://blog.noten-app.de/hello-world",
             "title": "Hello World!",
             "summary": "This is our first post",
-            "date_modified": "2023-12-27T10:13:21.000Z",
+            "date_modified": "2023-12-27T10:19:57.000Z",
             "author": {
                 "name": "Konstantin Protzen",
                 "url": "https://konstantin-protzen.de"
@@ -29,17 +29,18 @@
             "url": "https://blog.noten-app.de/v2_4_0-update",
             "title": "Update to v2.4.0",
             "summary": "More about the upcoming version",
-            "date_modified": "2023-12-27T10:13:21.000Z",
+            "date_modified": "2023-12-27T10:19:57.000Z",
             "author": {
                 "name": "Konstantin Protzen",
                 "url": "https://konstantin-protzen.de"
             },
             "tags": [
-                "hello",
-                "welcome",
                 "noten-app",
-                "post",
-                "first"
+                "version",
+                "update",
+                "migration",
+                "account",
+                "development"
             ]
         }
     ]

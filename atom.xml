@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.noten-app.de/</id>
     <title>Noten-App Blog</title>
-    <updated>2023-12-27T10:13:21.000Z</updated>
+    <updated>2023-12-27T10:19:57.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.noten-app.de/"/>
     <subtitle>Noten-App Blog</subtitle>
@@ -12,7 +12,7 @@
         <title type="html"><![CDATA[Hello World!]]></title>
         <id>https://blog.noten-app.de/hello-world</id>
         <link href="https://blog.noten-app.de/hello-world"/>
-        <updated>2023-12-27T10:13:21.000Z</updated>
+        <updated>2023-12-27T10:19:57.000Z</updated>
         <summary type="html"><![CDATA[This is our first post]]></summary>
         <content type="html"><![CDATA[<p>Welcome to this blog.<br>
 <!-- -->Here we will post about our progress on the Noten-App and other things you might find interesting.</p>
@@ -67,7 +67,7 @@ change that name in the settings.<br>
         <title type="html"><![CDATA[Update to v2.4.0]]></title>
         <id>https://blog.noten-app.de/v2_4_0-update</id>
         <link href="https://blog.noten-app.de/v2_4_0-update"/>
-        <updated>2023-12-27T10:13:21.000Z</updated>
+        <updated>2023-12-27T10:19:57.000Z</updated>
         <summary type="html"><![CDATA[More about the upcoming version]]></summary>
         <content type="html"><![CDATA[<p>We have finished development of v2.4.0 and will be releasing it soon.</p>
 <p>This version will include a new year-system which will allow you to have multiple years in one account containing all grades, subjects and homework tasks in that year.</p>
@@ -85,10 +85,11 @@ change that name in the settings.</p>
             <name>Konstantin Protzen</name>
             <uri>https://konstantin-protzen.de</uri>
         </author>
-        <category label="hello" term="hello"/>
-        <category label="welcome" term="welcome"/>
         <category label="noten-app" term="noten-app"/>
-        <category label="post" term="post"/>
-        <category label="first" term="first"/>
+        <category label="version" term="version"/>
+        <category label="update" term="update"/>
+        <category label="migration" term="migration"/>
+        <category label="account" term="account"/>
+        <category label="development" term="development"/>
     </entry>
 </feed>
