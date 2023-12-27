@@ -3,7 +3,7 @@ title: Update to v2.4.0
 description: More about the upcoming version
 slug: v2_4_0-update
 authors: konstantin
-tags: [hello, welcome, noten-app, post, first]
+tags: [noten-app, version, update, migration, account, development]
 hide_table_of_contents: false
 ---
 
