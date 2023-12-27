@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.noten-app.de/</id>
     <title>Noten-App Blog</title>
-    <updated>2023-12-14T17:13:49.000Z</updated>
+    <updated>2023-12-27T10:13:21.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.noten-app.de/"/>
     <subtitle>Noten-App Blog</subtitle>
@@ -12,7 +12,7 @@
         <title type="html"><![CDATA[Hello World!]]></title>
         <id>https://blog.noten-app.de/hello-world</id>
         <link href="https://blog.noten-app.de/hello-world"/>
-        <updated>2023-12-14T17:13:49.000Z</updated>
+        <updated>2023-12-27T10:13:21.000Z</updated>
         <summary type="html"><![CDATA[This is our first post]]></summary>
         <content type="html"><![CDATA[<p>Welcome to this blog.<br>
 <!-- -->Here we will post about our progress on the Noten-App and other things you might find interesting.</p>
@@ -53,6 +53,34 @@ change that name in the settings.<br>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="apis">APIs<a href="https://blog.noten-app.de/hello-world#apis" class="hash-link" aria-label="Direct link to APIs" title="Direct link to APIs">​</a></h3>
 <p>We already have a few APIs for Noten-App but they are not well documented yet and also have some bugs.<br>
 <!-- -->We plan on fully removing the old APIs and replacing them with new ones.</p>]]></content>
+        <author>
+            <name>Konstantin Protzen</name>
+            <uri>https://konstantin-protzen.de</uri>
+        </author>
+        <category label="hello" term="hello"/>
+        <category label="welcome" term="welcome"/>
+        <category label="noten-app" term="noten-app"/>
+        <category label="post" term="post"/>
+        <category label="first" term="first"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update to v2.4.0]]></title>
+        <id>https://blog.noten-app.de/v2_4_0-update</id>
+        <link href="https://blog.noten-app.de/v2_4_0-update"/>
+        <updated>2023-12-27T10:13:21.000Z</updated>
+        <summary type="html"><![CDATA[More about the upcoming version]]></summary>
+        <content type="html"><![CDATA[<p>We have finished development of v2.4.0 and will be releasing it soon.</p>
+<p>This version will include a new year-system which will allow you to have multiple years in one account containing all grades, subjects and homework tasks in that year.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="migration">Migration<a href="https://blog.noten-app.de/v2_4_0-update#migration" class="hash-link" aria-label="Direct link to Migration" title="Direct link to Migration">​</a></h2>
+<p>Because we added a new year-system all your current grades will be moved to one year with a random name. You can a
+change that name in the settings.</p>
+<p>We will not (as planned) migrate your account when opening it after the update, but instead we will migrate all accounts at once on our servers.</p>
+<p>This migration is planned to be happening between the 29th and the 31st of December.</p>
+<p>As the migration will take some time you might not be able to access your account during that time.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="e-mails">E-Mails<a href="https://blog.noten-app.de/v2_4_0-update#e-mails" class="hash-link" aria-label="Direct link to E-Mails" title="Direct link to E-Mails">​</a></h3>
+<p>Because new accounts are required to verify their E-Mail-Address we will also require all existing accounts to verify their E-Mail-Address.</p>
+<p>When logging in after the update you will be asked to verify your E-Mail-Address.</p>
+<p>You can still use your account without verifying your E-Mail-Address <strong>until around the end of January</strong>, but after that you will not be able to use your account anymore until you verify your E-Mail-Address.</p>]]></content>
         <author>
             <name>Konstantin Protzen</name>
             <uri>https://konstantin-protzen.de</uri>

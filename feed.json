@@ -10,7 +10,26 @@
             "url": "https://blog.noten-app.de/hello-world",
             "title": "Hello World!",
             "summary": "This is our first post",
-            "date_modified": "2023-12-14T17:13:49.000Z",
+            "date_modified": "2023-12-27T10:13:21.000Z",
+            "author": {
+                "name": "Konstantin Protzen",
+                "url": "https://konstantin-protzen.de"
+            },
+            "tags": [
+                "hello",
+                "welcome",
+                "noten-app",
+                "post",
+                "first"
+            ]
+        },
+        {
+            "id": "https://blog.noten-app.de/v2_4_0-update",
+            "content_html": "<p>We have finished development of v2.4.0 and will be releasing it soon.</p>\n<p>This version will include a new year-system which will allow you to have multiple years in one account containing all grades, subjects and homework tasks in that year.</p>\n<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"migration\">Migration<a href=\"https://blog.noten-app.de/v2_4_0-update#migration\" class=\"hash-link\" aria-label=\"Direct link to Migration\" title=\"Direct link to Migration\">​</a></h2>\n<p>Because we added a new year-system all your current grades will be moved to one year with a random name. You can a\nchange that name in the settings.</p>\n<p>We will not (as planned) migrate your account when opening it after the update, but instead we will migrate all accounts at once on our servers.</p>\n<p>This migration is planned to be happening between the 29th and the 31st of December.</p>\n<p>As the migration will take some time you might not be able to access your account during that time.</p>\n<h3 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"e-mails\">E-Mails<a href=\"https://blog.noten-app.de/v2_4_0-update#e-mails\" class=\"hash-link\" aria-label=\"Direct link to E-Mails\" title=\"Direct link to E-Mails\">​</a></h3>\n<p>Because new accounts are required to verify their E-Mail-Address we will also require all existing accounts to verify their E-Mail-Address.</p>\n<p>When logging in after the update you will be asked to verify your E-Mail-Address.</p>\n<p>You can still use your account without verifying your E-Mail-Address <strong>until around the end of January</strong>, but after that you will not be able to use your account anymore until you verify your E-Mail-Address.</p>",
+            "url": "https://blog.noten-app.de/v2_4_0-update",
+            "title": "Update to v2.4.0",
+            "summary": "More about the upcoming version",
+            "date_modified": "2023-12-27T10:13:21.000Z",
             "author": {
                 "name": "Konstantin Protzen",
                 "url": "https://konstantin-protzen.de"

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[31],{4392:a=>{a.exports=JSON.parse('{"label":"noten-app","permalink":"/tags/noten-app","allTagsPath":"/tags","count":2,"unlisted":false}')}}]);
