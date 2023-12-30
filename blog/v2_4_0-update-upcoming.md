@@ -5,6 +5,7 @@ slug: v2_4_0-update-upcoming
 authors: konstantin
 tags: [noten-app, version, update, migration, account, development]
 hide_table_of_contents: false
+date: 2023-12-27
 ---
 
 We have finished development of v2.4.0 and will be releasing it soon.
