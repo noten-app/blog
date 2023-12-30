@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World!","permalink":"/hello-world","unlisted":false},{"title":"Update to v2.4.0","permalink":"/v2_4_0-update","unlisted":false}]}')}}]);
