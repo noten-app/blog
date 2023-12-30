@@ -1,5 +1,5 @@
 ---
-title: Update to v2.4.0
+title: Upcoming update to v2.4.0
 description: More about the upcoming version
 slug: v2_4_0-update-upcoming
 authors: konstantin
