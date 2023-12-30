@@ -1,7 +1,7 @@
 ---
 title: Update to v2.4.0
 description: More about the upcoming version
-slug: v2_4_0-update
+slug: v2_4_0-update-upcoming
 authors: konstantin
 tags: [noten-app, version, update, migration, account, development]
 hide_table_of_contents: false
