@@ -5,6 +5,7 @@ slug: hello-world
 authors: konstantin
 tags: [hello, welcome, noten-app, post, first]
 hide_table_of_contents: false
+date: 2023-12-14
 ---
 
 Welcome to this blog.  
