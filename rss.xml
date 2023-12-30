@@ -4,7 +4,7 @@
         <title>Noten-App Blog</title>
         <link>https://blog.noten-app.de/</link>
         <description>Noten-App Blog</description>
-        <lastBuildDate>Sat, 30 Dec 2023 22:49:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 22:50:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -13,7 +13,7 @@
             <title><![CDATA[Hello World!]]></title>
             <link>https://blog.noten-app.de/hello-world</link>
             <guid>https://blog.noten-app.de/hello-world</guid>
-            <pubDate>Sat, 30 Dec 2023 22:49:39 GMT</pubDate>
+            <pubDate>Sat, 30 Dec 2023 22:50:37 GMT</pubDate>
             <description><![CDATA[This is our first post]]></description>
             <content:encoded><![CDATA[<p>Welcome to this blog.<br>
 <!-- -->Here we will post about our progress on the Noten-App and other things you might find interesting.</p>
@@ -64,7 +64,7 @@ change that name in the settings.<br>
             <title><![CDATA[Updated to v2.4.0 🎉]]></title>
             <link>https://blog.noten-app.de/v2_4_0-update</link>
             <guid>https://blog.noten-app.de/v2_4_0-update</guid>
-            <pubDate>Sat, 30 Dec 2023 22:49:39 GMT</pubDate>
+            <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[The update is done]]></description>
             <content:encoded><![CDATA[<p>We have released v2.4.0! 🥳</p>
 <p>This version includes a new year-system which allows you to have multiple years in one account containing all grades, subjects and homework tasks in that year.</p>
