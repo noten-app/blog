@@ -4,11 +4,32 @@
         <title>Noten-App Blog</title>
         <link>https://blog.noten-app.de/</link>
         <description>Noten-App Blog</description>
-        <lastBuildDate>Sat, 30 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <copyright>Copyright © 2023 Noten-App.</copyright>
+        <copyright>Copyright © 2024 Noten-App.</copyright>
+        <item>
+            <title><![CDATA[Plans for v3]]></title>
+            <link>https://blog.noten-app.de/v3_rewriting</link>
+            <guid>https://blog.noten-app.de/v3_rewriting</guid>
+            <pubDate>Sat, 01 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[The update is done]]></description>
+            <content:encoded><![CDATA[<p>We are currently working on a new version of the Noten-App which will be Version 3.</p>
+<p>Why we have such a big version jump and what we are planning to do with this version is explained in this blog post.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="rewriting">Rewriting<a href="https://blog.noten-app.de/v3_rewriting#rewriting" class="hash-link" aria-label="Direct link to Rewriting" title="Direct link to Rewriting">​</a></h2>
+<p>The main reason for the big version jump is that we are rewriting the whole app.</p>
+<p>The current app is written really bad and we have a lot of issues with it.<br>
+<!-- -->Also, the app is not really maintainable anymore because of the bad code.</p>
+<p>Also the plans to publish the API so we can finally work on native desktop and mobile-phone apps are delayed because we can't work with the current code.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-will-change">What will change?<a href="https://blog.noten-app.de/v3_rewriting#what-will-change" class="hash-link" aria-label="Direct link to What will change?" title="Direct link to What will change?">​</a></h2>
+<p>Even though we are rewriting the whole app, the app will stil look nearly the same. That's because we think the current design is really good and we don't want to completely change it, we just want to make it better.</p>
+<p>As we are rewriting the whole app, we will also fix a lot of bugs. But we realistically don't think that this won't introduce new bugs. ;)</p>
+<p>Our plans to have an eMail-verification for all accounts are still in place and will be implemented with this version.</p>]]></content:encoded>
+            <category>noten-app</category>
+            <category>version</category>
+            <category>update</category>
+        </item>
         <item>
             <title><![CDATA[Updated to v2.4.0 🎉]]></title>
             <link>https://blog.noten-app.de/v2_4_0-update</link>

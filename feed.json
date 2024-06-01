@@ -5,6 +5,23 @@
     "description": "Noten-App Blog",
     "items": [
         {
+            "id": "https://blog.noten-app.de/v3_rewriting",
+            "content_html": "<p>We are currently working on a new version of the Noten-App which will be Version 3.</p>\n<p>Why we have such a big version jump and what we are planning to do with this version is explained in this blog post.</p>\n<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"rewriting\">Rewriting<a href=\"https://blog.noten-app.de/v3_rewriting#rewriting\" class=\"hash-link\" aria-label=\"Direct link to Rewriting\" title=\"Direct link to Rewriting\">​</a></h2>\n<p>The main reason for the big version jump is that we are rewriting the whole app.</p>\n<p>The current app is written really bad and we have a lot of issues with it.<br>\n<!-- -->Also, the app is not really maintainable anymore because of the bad code.</p>\n<p>Also the plans to publish the API so we can finally work on native desktop and mobile-phone apps are delayed because we can't work with the current code.</p>\n<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"what-will-change\">What will change?<a href=\"https://blog.noten-app.de/v3_rewriting#what-will-change\" class=\"hash-link\" aria-label=\"Direct link to What will change?\" title=\"Direct link to What will change?\">​</a></h2>\n<p>Even though we are rewriting the whole app, the app will stil look nearly the same. That's because we think the current design is really good and we don't want to completely change it, we just want to make it better.</p>\n<p>As we are rewriting the whole app, we will also fix a lot of bugs. But we realistically don't think that this won't introduce new bugs. ;)</p>\n<p>Our plans to have an eMail-verification for all accounts are still in place and will be implemented with this version.</p>",
+            "url": "https://blog.noten-app.de/v3_rewriting",
+            "title": "Plans for v3",
+            "summary": "The update is done",
+            "date_modified": "2024-06-01T00:00:00.000Z",
+            "author": {
+                "name": "Konstantin Protzen",
+                "url": "https://konstantin-protzen.de"
+            },
+            "tags": [
+                "noten-app",
+                "version",
+                "update"
+            ]
+        },
+        {
             "id": "https://blog.noten-app.de/v2_4_0-update",
             "content_html": "<p>We have released v2.4.0! 🥳</p>\n<p>This version includes a new year-system which allows you to have multiple years in one account containing all grades, subjects and homework tasks in that year.</p>\n<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"migration\">Migration<a href=\"https://blog.noten-app.de/v2_4_0-update#migration\" class=\"hash-link\" aria-label=\"Direct link to Migration\" title=\"Direct link to Migration\">​</a></h2>\n<p>The migration is already done on our servers and we will move all users to the new system till the 31st of December.</p>\n<div class=\"theme-admonition theme-admonition-info admonition_xJq3 alert alert--info\"><div class=\"admonitionHeading_Gvgb\"><span class=\"admonitionIcon_Rf37\"><svg viewBox=\"0 0 14 16\"><path fill-rule=\"evenodd\" d=\"M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z\"></path></svg></span>Migration Issues</div><div class=\"admonitionContent_BuS1\"><p>Because the migration had some issues some accounts have not already automatically switched to the right year.</p><p>To fix this, please open the settings, click on \"School-Years\" and then click on \"preUpdate\".</p><p>If you want to rename the year just click on \"School-Years\" &gt; \"Manage School-Years\" &gt; Choose the year you want to rename &gt; Change the name &gt; Click on \"Update Year\".</p></div></div>\n<h3 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"e-mails\">E-Mails<a href=\"https://blog.noten-app.de/v2_4_0-update#e-mails\" class=\"hash-link\" aria-label=\"Direct link to E-Mails\" title=\"Direct link to E-Mails\">​</a></h3>\n<p>Because new accounts are required to verify their E-Mail-Address we also require all existing accounts to verify their E-Mail-Address.</p>\n<p>When logging in you will be asked to verify your E-Mail-Address.</p>\n<p>You can still use your account without verifying your E-Mail-Address <strong>until around the end of January</strong>, but after that you will not be able to use your account anymore until you verify your E-Mail-Address.</p>",
             "url": "https://blog.noten-app.de/v2_4_0-update",
