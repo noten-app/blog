@@ -4,11 +4,87 @@
         <title>Noten-App Blog</title>
         <link>https://blog.noten-app.de/</link>
         <description>Noten-App Blog</description>
-        <lastBuildDate>Sat, 01 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <copyright>Copyright © 2024 Noten-App.</copyright>
+        <copyright>Copyright © 2024 Konstantin Protzen.</copyright>
+        <item>
+            <title><![CDATA[The end of Noten-App]]></title>
+            <link>https://blog.noten-app.de/noten-app-eol</link>
+            <guid>https://blog.noten-app.de/noten-app-eol</guid>
+            <pubDate>Thu, 17 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Noten-App will be discontinued]]></description>
+            <content:encoded><![CDATA[<p><em>This blog post is also available in <a href="https://blog.noten-app.de/de/noten-app-eol/">German</a>.</em></p>
+<p>This blog post will be sectioned into three parts:</p>
+<ul>
+<li><a href="https://blog.noten-app.de/noten-app-eol#history">The history of the Noten-App</a></li>
+<li><a href="https://blog.noten-app.de/noten-app-eol#present">What is happening now</a></li>
+<li><a href="https://blog.noten-app.de/noten-app-eol#future">The future</a></li>
+</ul>
+<p>Feel free to skip to the part you are interested in.</p>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>TL;DR</div><div class="admonitionContent_BuS1"><p>The Noten-App will be discontinued.<br>
+<!-- -->Please move all your data to another service before the end of the year.</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="history">History<a href="https://blog.noten-app.de/noten-app-eol#history" class="hash-link" aria-label="Direct link to History" title="Direct link to History">​</a></h2>
+<p>To start off this blog post, first I want to tell a bit about the Noten-App and myself.</p>
+<p>I started Noten-App in the November of 2022. It was a small project that I started to help me with my own grades. I was tired of having to calculate my grades by hand and wanted to have a simple tool that would do it for me.<br>
+<!-- -->At that time, I was still in school and as COVID-19 was still a big issue, I had a lot of time on my hands. So I started to work on the Noten-App.</p>
+<p>I started off with a simple homepage for the project, as at that time I didn't know how to do anything server-side and just wanted to have a little fun with HTML and CSS. Then somehow I put aside the project, even though there had just been a simple homepage with no functionality at all.</p>
+<p>I started another project, Sqowey, which I don't want to talk about in this blog post. But it was a project that I worked on for a long time and learned how to work with databases and server-side code.</p>
+<p>In March 2023, I stumbled upon the Noten-App again and decided to give it another try. I started to work on it again and this time I was able to get a simple version of the Noten-App running. It was a simple tool that allowed you to add your subjects and grades and it would calculate your average grade. Store all of that in a database to make it persistent and bundle it with a simple authentication system. - There you have it, the first functional version of the Noten-App was born.</p>
+<p>After that, Noten-App has always been a on-and-off project for me. I worked on it when I had time and when I felt like it, which was mostly in trains going on holidays. I never really had a plan with the Noten-App, I just wanted to continue working on it and make it better.</p>
+<p>I told some friends about the Noten-App and they started to use it. They gave me feedback and I implemented it. I was happy that some people actually used the Noten-App and that it was helpful to them. But it was still really buggy and not really user-friendly and therefore many people stopped using it. It spread to a few people in my school and some people from other schools, but it never really got big or anything and stopped growing at around 20 users.<br>
+<!-- -->Then some time passed and I didn't work on the Noten-App at all. I was busy with other projects and school and didn't have time for it. But I always had it in the back of my mind and wanted to continue working on it. I started to write this blog to motivate myself to work on the Noten-App, but that sadly didn't work out as planned.<br>
+<!-- -->But as I looked into the numbers, I saw the Noten-App grew a bit further and somehow people were actively using it. I don't know how they found it, but I am happy that they did.</p>
+<p>As of today, the Noten-App has 57 users and even though that is not a lot, I am still really flattered that some people actually use the Noten-App.<br>
+<!-- -->And as we are already talking about today, let's move on to the next part of this blog post.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="present">Present<a href="https://blog.noten-app.de/noten-app-eol#present" class="hash-link" aria-label="Direct link to Present" title="Direct link to Present">​</a></h2>
+<p>I am sad to announce that the Noten-App will be discontinued.</p>
+<p>I have been thinking about this for a long time and I have come to the conclusion that I don't have the time and motivation to continue working on the Noten-App and there are just so many better alternatives out there.</p>
+<p>The Noten-App will be discontinued on the 31st of December 2024.</p>
+<p>Please move all your data to another service before the end of the year.<br>
+<!-- -->I am sorry for the inconvenience this may cause you.
+All data will be deleted after the 31st of December 2024.</p>
+<p>If you don't know where to move your data to, I recommend you to use the app <em>Notan</em> which is available on the App Store and Google Play Store.</p>
+<p>I want to thank everyone who has used the Noten-App. I am really happy that some people actually used it and that it was helpful to them.</p>
+<p>Thank you!</p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Discontinuation plan - with times</summary><div><div class="collapsibleContent_i85q"><ol>
+<li>
+<p><strong>17th of October 2024</strong> (Today)<br>
+<!-- -->Announcement of the discontinuation of the Noten-App.</p>
+</li>
+<li>
+<p><strong>Before the 31st of December 2024</strong><br>
+<!-- -->I will turn off the statuspage, API (Programmer Interface), Account migration tools and Developer Portal of the Noten-App.<br>
+<!-- -->Also the Beta-Program and Analytics (Only had been used for beta-testers) will be turned off.
+As these are not really used by anyone, I will just turn them off and delete the data.</p>
+</li>
+<li>
+<p><strong>31st of December 2024</strong><br>
+<!-- -->The Noten-App and login system will be shut down, the login will be disabled.</p>
+</li>
+<li>
+<p><strong>After the 31st of December 2024</strong><br>
+<!-- -->I will not immediately delete all data, but I will keep it for some time in case someone didn't move their data yet.<br>
+<!-- -->The data will AT LEAST be deleted on the 31st of March 2025.</p>
+</li>
+<li>
+<p><strong>After the 31st of March 2025</strong><br>
+<!-- -->The <a href="https://github.com/noten-app" target="_blank" rel="noopener noreferrer">GitHub repositories</a> will be archived with a note to this blog post.<br>
+<!-- -->The Assets server (containing images and static code for the app) will be shut down.<br>
+<!-- -->What will persist are the blog (this blog) and the documentation. Both will not be used anymore, but as they are just static files, there is no risk of keeping them online without any maintenance.</p>
+</li>
+</ol></div></div></details>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="future">Future<a href="https://blog.noten-app.de/noten-app-eol#future" class="hash-link" aria-label="Direct link to Future" title="Direct link to Future">​</a></h2>
+<p>I don't really know what the future holds for me and the Noten-App.</p>
+<p>I will hold on to the domain (the name "noten-app.de") and maybe I will do something with it in the future. But for now, I will just let it sit there and maybe I will come back to it in a few years.</p>
+<p>Over the years, I have learned a lot from the Noten-App and I am really grateful for that. I have learned how to work with databases, how to work with server-side code, how to work with authentication systems and improved miles in HTML, CSS and JavaScript.<br>
+<!-- -->I've learned how to work with libraries like Chart.js or FPDF, how to run progressive web apps (The Noten-App has always just been a browser window, for those who didn't know) and even read through standart documents (Like RFC6749), and I am really grateful for all that.<br>
+<!-- -->I feel like in the end the Noten-App had a ok-ish interface. My favorite part have always been the settings because, as weird as it sounds, I really like the design and I think they are really user-friendly and even a bit nicer to use than most other apps I have seen.</p>
+<p>Now I will focus on other projects and maybe even a careerpath - who knows ;) If you want to follow my journey, you can now even follow my personal blog at <a href="https://blog.kondev.de/" target="_blank" rel="noopener noreferrer">blog.kondev.de</a>.</p>
+<p>Thank you for reading this blog post and thank you for using the Noten-App.</p>]]></content:encoded>
+            <category>noten-app</category>
+        </item>
         <item>
             <title><![CDATA[Plans for v3]]></title>
             <link>https://blog.noten-app.de/v3_rewriting</link>
