@@ -18,7 +18,7 @@ const config = {
   organizationName: 'noten-app',
   projectName: 'blog',
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn', // Has to be warn because it throws error when linking to page in another language
   onBrokenMarkdownLinks: 'warn',
   onDuplicateRoutes: "warn",
 
@@ -30,7 +30,7 @@ const config = {
 
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['de', 'en'],
   },
 
   presets: [
@@ -44,7 +44,7 @@ const config = {
           routeBasePath: '/',
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Noten-App.`,
+            copyright: `Copyright © 2024 Konstantin Protzen.`,
           },
         },
         theme: {
@@ -72,6 +72,10 @@ const config = {
           src: 'https://noten-app.de/src/images/logo-108p.webp',
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'left',
+          },
           { to: 'https://docs.noten-app.de', label: 'Docs', position: 'right' },
           {
             href: 'https://github.com/noten-app/blog',
@@ -135,7 +139,19 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Noten-App. Built with Docusaurus.`,
+        copyright: `Copyright © 2024 Konstantin Protzen. Built with Docusaurus.`,
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        respectPrefersColorScheme: true
+      },
+      announcementBar: {
+        id: 'eol-announcement',
+        content:
+          'Noten-App will be <b>discontinued on 31.12.2024</b>. Please read more about this <a href="https://blog.noten-app.de/noten-app-eol">here</a>.',
+        backgroundColor: '#f75d4e',
+        textColor: '#000000',
+        isCloseable: false,
       },
       prism: {
         theme: prismThemes.github,
